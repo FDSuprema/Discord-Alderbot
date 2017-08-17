@@ -1,0 +1,11 @@
+// Alderbot's config file
+// Super secret stuff.
+{
+	// The bot's login token.  https://discordapp.com/developers/applications/me
+	"token": "token-goes-here",
+	// The prefix the bot will recognize for bot commands.
+	"prefix": "`",
+	// The user ID of the owner of the bot. This will allow
+	// certain admin or debug commands to be used.
+	"ownerID": "user-id-goes-here"
+}
